@@ -9,6 +9,9 @@ export PATH=$PATH:/opt/puppetlabs/puppet/bin/
 # Install Hunner's Hiera module
 /opt/puppetlabs/puppet/bin/puppet module install 'hunner-hiera'
 
+# Install Puppet's NTP module
+/opt/puppetlabs/puppet/bin/puppet module install 'puppetlabs-ntp'
+
 # Stop and disable Firewalld
 /bin/systemctl stop  firewalld.service
 /bin/systemctl disable firewalld.service
