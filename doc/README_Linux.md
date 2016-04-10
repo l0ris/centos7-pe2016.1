@@ -50,8 +50,3 @@ You will be presented with a Puppet Enterprise Console login screen.  To login, 
 
 	User: admin
 	Password: puppetlabs
-
-
-**TODO:**<br>
-- VMWare Fusion Support
-  - I have one pull request on VMWare Fusion, and it's a hacky sort of substitute. If anyone nows how to get the Vagrantfile to determine the right virtualization technology and just "do the right thing" all in one Vagrantfile, that's the "silver bullet" I'm looking for.
