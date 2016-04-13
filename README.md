@@ -13,6 +13,6 @@ Puppet Agents 1-3, all customized to the following three environments:<br>
 
 **Instructional Documentation:**
 
-[OSX Installation](https://github.com/l0ris/centos7-pe2015.2/blob/master/doc/README_OSX.md)
+[OSX Installation](https://github.com/l0ris/centos7-pe2016.1/blob/master/doc/README_OSX.md)
 
-[Linux Installation](https://github.com/l0ris/centos7-pe2015.2/blob/master/doc/README_Linux.md)
+[Linux Installation](https://github.com/l0ris/centos7-pe2016.1/blob/master/doc/README_Linux.md)
